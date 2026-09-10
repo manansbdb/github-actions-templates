@@ -1,26 +1,28 @@
 # GitHub Actions Templates / Templates de GitHub Actions
 
-Reusable CI workflows for Node.js and Python projects.
+## Overview / Visão geral
 
-Workflows reutilizáveis de CI para projetos Node.js e Python.
+**EN:** Reusable CI workflows for Node.js and Python projects.
+
+**PT:** Workflows reutilizáveis de CI para projetos Node.js e Python.
 
 ## Contents / Conteúdo
 
-| File | Description |
-|------|-------------|
-| `.github/workflows/ci-node.yml` | Node.js CI (install, lint, test) |
-| `.github/workflows/ci-python.yml` | Python CI (pip, lint, pytest) |
+| File | Description (EN) | Descrição (PT) |
+|------|------------------|----------------|
+| `.github/workflows/ci-node.yml` | Node.js CI (install, lint, test) | CI Node.js (install, lint, test) |
+| `.github/workflows/ci-python.yml` | Python CI (pip, lint, pytest) | CI Python (pip, lint, pytest) |
 
 ## Usage / Uso
 
-Copy the workflow files into your repository under `.github/workflows/` and adjust versions, cache keys, and scripts as needed.
+**EN:** Copy the workflow files into your repository under `.github/workflows/` and adjust versions, cache keys, and scripts as needed.
 
-Copia os ficheiros para `.github/workflows/` e ajusta versões, cache e scripts conforme o teu projeto.
+**PT:** Copia os ficheiros para `.github/workflows/` e ajusta versões, cache e scripts conforme o teu projeto.
 
-## License
+## License / Licença
 
 MIT © 2026 manansbdb
 
 ## Support / Apoio
 
-See [SUPPORT.md](SUPPORT.md).
+See [SUPPORT.md](SUPPORT.md) · Ver [SUPPORT.md](SUPPORT.md).
